@@ -1,6 +1,6 @@
 # Ximena Andrade
 
-> **JavaScript Specialist**. Fluent in **CSS**.\
+> **JavaScript/CSS Specialist**\
 > Driven Software Engineer with a keen passion for frontend development. Dedicated to creating visually striking and highly accessible user experiences. Ready to lead with technical expertise and shape the industry's future.
 
 📧 **<GirasolXimena@gmail.com>**\
