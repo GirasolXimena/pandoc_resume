@@ -31,6 +31,11 @@
 - Expertly translated and sorted feedback from international marketing campaigns, assisting clients like Mercedes Benz, Citroen, and Audi in their market research endeavors.
 - Served as the **sole specialist** for Korean and French projects, demonstrating versatility and linguistic mastery.
 
+### English Teacher | 웕계중학교(Wolgye Middle School) | Gwangju, South Korea | February 2015 - February 2017
+
+- Led interactive English lessons for diverse age groups, emphasizing clear communication and cultural exchange.
+- Adapted teaching strategies to cater to various learning styles, ensuring comprehensive understanding and student engagement.
+
 ### Spanish Teacher | Guardian Angels | September 2017 - June 2018
 
 - Crafted engaging curricula for varied grades, ensuring enthusiastic student participation and comprehension.
