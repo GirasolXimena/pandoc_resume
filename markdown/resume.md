@@ -1,7 +1,12 @@
 # Ximena Andrade
 
 > **JavaScript Specialist**. Fluent in **CSS**.\
-> Driven Software Engineer passionate about frontend development, poised to join innovative teams like **Roundel** that prioritize humility, trust, collaboration, and personal responsibility. Ready to lead with technical prowess, contribute to **Roundel's** mission, and shape the future of the industry.
+> Driven Software Engineer passionate about frontend development, poised to join innovative teams like **Roundel** that prioritize humility, trust, collaboration, and personal responsibility. Ready to lead with technical prowess, contribute to **Roundel's** mission, and shape the future of the industry.\
+
+📧 **<GirasolXimena@gmail.com>**\
+🌐 **[XimenaAndrade.dev](https://ximenaandrade.dev)**
+
+🔗 [LinkedIn: andradeximena](https://www.linkedin.com/in/andradeximena) • [CodePen: abstract_code](https://codepen.io/abstract_code)
 
 ## Professional Experience
 
@@ -45,8 +50,4 @@
 - **Collaborated** with peers in a tutoring setting, emphasizing **clear communication** and collective growth.
 
 ---
-
-> <GirasolXimena@gmail.com> • [XimenaAndrade.dev](https://ximenaandrade.dev) • [LinkedIn](https://www.linkedin.com/in/srobertandrade) • [CodePen](https://codepen.io/abstract_code)\
-> Minneapolis, Minnesota
-
-*This resume was crafted using Markdown and CSS.*
+###### *This resume was crafted using Markdown and CSS in Minneapolis, Minnesota.*

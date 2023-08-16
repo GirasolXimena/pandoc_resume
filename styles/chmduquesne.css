@@ -53,6 +53,10 @@ h2:before {
 h3 {
     color: #919191;
 }
+h6 {
+    text-align: right;
+    margin-bottom: 1.4em;
+}
 /* Definitions */
 dt {
     float: left;
@@ -71,11 +75,13 @@ p {
 
 /* Blockquotes */
 blockquote {
+    border: none;
+}
+
+h1 + blockquote {
     text-align: center;
     border-top: 1px solid #E4E4E4;
     border-bottom: 1px solid #E4E4E4;
-    border-left: none;
-    border-right: none;
 }
 
 /* Links */
