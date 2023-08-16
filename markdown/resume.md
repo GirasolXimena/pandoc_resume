@@ -36,6 +36,11 @@
 
 - Adapted teaching strategies for diverse grades, ensuring engagement and understanding.
 
+### English Teacher | 웕계중학교(Wolgye Middle School) | Gwangju, South Korea | February 2015 - February 2017
+
+- Led interactive English lessons for diverse age groups, emphasizing clear communication and cultural exchange.
+- Adapted teaching strategies to cater to various learning styles, ensuring comprehensive understanding and student engagement.
+
 ### French Tutor | University of Minnesota - Twin Cities | 2012 - 2014
 
 - **Collaboratively tutored** peers, emphasizing clear communication and mutual growth.
