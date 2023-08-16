@@ -20,7 +20,7 @@ body {
 /* Title of the resume */
 h1 {
     font-size: 55px;
-    color: #757575;
+    color: #616161;
     text-align:center;
     margin-bottom:15px;
 }
@@ -33,7 +33,7 @@ h1 {
 /* Titles of categories */
 h2 {
     /* This is called "sectioncolor" in the ConTeXt stylesheet. */
-    color: #397249;
+    color: #616161;
 }
 /* There is a bar just before each category */
 h2:before {
@@ -43,14 +43,16 @@ h2:before {
     width: 16%;
     height: 10px;
     /* This is called "rulecolor" in the ConTeXt stylesheet. */
-    background-color: #9CB770;
+    background-color: #CC0000;
 }
 /* h2:hover { */
-/*     background-color: #397249; */
+/*     background-color: #CC0000; */
 /*     color: #FFFFFF; */
 /*     text-shadow: 1px 1px 1px #333; */
 /* } */
-
+h3 {
+    color: #919191;
+}
 /* Definitions */
 dt {
     float: left;
@@ -69,24 +71,28 @@ p {
 
 /* Blockquotes */
 blockquote {
-    text-align: center
+    text-align: center;
+    border-top: 1px solid #E4E4E4;
+    border-bottom: 1px solid #E4E4E4;
+    border-left: none;
+    border-right: none;
 }
 
 /* Links */
 a {
     text-decoration: none;
-    color: #397249;
+    color: #CC0000;
 }
 a:hover, a:active {
-    background-color: #397249;
-    color: #FFFFFF;
+    background-color: #CC0000;
+    color: #F5F5F7;
     text-decoration: none;
     text-shadow: 1px 1px 1px #333;
 }
 
 /* Horizontal separators */
 hr {
-    color: #A6A6A6;
+    color: #E4E4E4;
 }
 
 table {
