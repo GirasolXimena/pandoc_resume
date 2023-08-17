@@ -29,11 +29,6 @@
 - Managed the design and deployment of national email campaigns, delivering captivating online experiences.
 - Innovated custom templating solutions, fine-tuning email campaigns for increased user engagement.
 
-### English Teacher | 웕계중학교(Wolgye Middle School) | Gwangju, South Korea | February 2015 - February 2017
-
-- Led interactive English lessons for varied age groups, emphasizing clear communication and cultural exchange.
-- Adapted teaching strategies to diverse learning styles, ensuring comprehensive understanding and robust student engagement.
-
 ## Additional Experience
 
 ### Translator & Comment Coder | Adapt, Inc. | May 2017 - June 2018
@@ -45,6 +40,10 @@
 
 - Tailored teaching strategies for varied grades, promoting engagement and understanding.
 
+### English Teacher | 웕계중학교(Wolgye Middle School) | Gwangju, South Korea | February 2015 - February 2017
+
+- Led interactive English lessons for varied age groups, emphasizing clear communication and cultural exchange.
+- Adapted teaching strategies to diverse learning styles, ensuring comprehensive understanding and robust student engagement.
 ### French Tutor | University of Minnesota - Twin Cities | 2012 - 2014
 
 - **Collaborated** with peers in a tutoring setting, emphasizing **clear communication** and collective growth.
