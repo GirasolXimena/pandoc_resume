@@ -1,12 +1,12 @@
-# Ximena Andrade
+# Ximena Girasol
 
 > **JavaScript/CSS Specialist**\
 > Driven Software Engineer with a keen passion for frontend development. Dedicated to creating visually striking and highly accessible user experiences. Ready to lead with technical expertise and shape the industry's future.
 
 📧 **<GirasolXimena@gmail.com>**\
-🌐 **[XimenaAndrade.dev](https://ximenaandrade.dev)**
+🌐 **[XimenaGirasol.dev](https://ximenaGirasol.dev)**
 
-🔗 [LinkedIn: andradeximena](https://www.linkedin.com/in/andradeximena) • [CodePen: abstract_code](https://codepen.io/abstract_code)
+🔗 [LinkedIn: Girasolximena](https://www.linkedin.com/in/Girasolximena) • [CodePen: abstract_code](https://codepen.io/abstract_code)
 
 ## Professional Experience
 
