@@ -1,7 +1,7 @@
 # Ximena Girasol
 
 > **Design Systems & Web Engineer**
-> Technical Software Engineer with a passion for frontend development, design systems, and Godzilla movies. Dedicated to creating fresh and blazing fast user experiences. Proven experience laying design foundations empowering teams to move independently in quickly. Ready to lead through clear communication and empathy.
+> Technical Software Engineer with a passion for frontend development, design systems, and Godzilla movies. Dedicated to creating fresh and blazing fast user experiences. Over 5 years of experience laying design foundations empowering teams to move independently in quickly. Ready to lead through clear communication and empathy.
 
 📧 **<Ximena.G.Dev@gmail.com>**\
 🌐 **[XimenaGirasol.dev](https://ximenaGirasol.dev)**
@@ -14,10 +14,10 @@
 > Typescript, React, CSS, HTML
 
 - **Launched** organization-wide component library as a tool to support company-wide objectives. Engineers from all teams use this as a foundation to increase performance, reliability, and consistency of our pages.
-- **Partnered** with design to uphold design language, set visual direction, and provide tools to support company-wide object. Implemented visual testing using and integrating third party tools like chromatic to greatly increase reliability and decrease overhead of manual QA.
+- **Partnered** with design to uphold design language, set visual direction, and ensure consistency across products. Implemented visual testing using and integrating third party tools like chromatic to greatly increase reliability and decrease overhead of manual QA.
 - **Optimized** web performance through configuration of bundlers like webpack. Measuring Core Web Vitals and creating data-driven analytics dashboards to insure continuous improvement.
 - **Improved** technical architecture to simplify long term maintainance of pages.
-- **Automated** CI/CD workflows, enhancing development processes.
+- **Automated** CI/CD workflows, enhancing development processes and security.
 - **Fostered** cross-team collaboration by working with product engineering teams, PMs, and Designers to bring new applications to life
 - **Mentored junior engineers**, fostering a culture of trust and collaboration.
 - **Dedicated to frontend best practices**, ensuring visually striking solutions aligned with the latest trends.
