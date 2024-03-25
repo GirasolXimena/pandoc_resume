@@ -1,99 +1,164 @@
 <style type="text/css">
-/*
- * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
- *
- * CSS for making a resume with pandoc. Inspired by moderncv.
- *
- * This CSS document is delivered to you under the CC BY-SA 3.0 License.
- * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
- */
+    /*
+     * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+     *
+     * CSS for making a resume with pandoc. Inspired by moderncv.
+     *
+     * This CSS document is delivered to you under the CC BY-SA 3.0 License.
+     * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+     */
 
-/* Whole document */
-body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    max-width: 800px;
-    margin: auto;
-    background: #FFFFFF;
-    padding: 10px 10px 10px 10px;
-}
+    /* Whole document */
+    :root {
+        --theme-color-primary: #5865F2;
+        --theme-color-secondary: #57F287;
+        --theme-color-light: #fff;
+        --heading-color: #23272A;
+        --heading-color-contrast: #2c2f33;
+        --background-color: #fff;
+    }
 
-/* Title of the resume */
-h1 {
-    font-size: 55px;
-    color: #757575;
-    text-align:center;
-    margin-bottom:15px;
-}
-/* h1:hover { */
-/*     background-color: #757575; */
-/*     color: #FFFFFF; */
-/*     text-shadow: 1px 1px 1px #333; */
-/* } */
+    body {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        max-width: 800px;
+        margin: auto;
+        background: var(--background-color);
+        padding: 10px 10px 10px 10px;
+    }
 
-/* Titles of categories */
-h2 {
-    /* This is called "sectioncolor" in the ConTeXt stylesheet. */
-    color: #397249;
-}
-/* There is a bar just before each category */
-h2:before {
-    content: "";
-    display: inline-block;
-    margin-right:1%;
-    width: 16%;
-    height: 10px;
-    /* This is called "rulecolor" in the ConTeXt stylesheet. */
-    background-color: #9CB770;
-}
-/* h2:hover { */
-/*     background-color: #397249; */
-/*     color: #FFFFFF; */
-/*     text-shadow: 1px 1px 1px #333; */
-/* } */
+    /* Title of the resume */
+    h1 {
+        font-size: 55px;
+        color: var(--heading-color);
+        text-align: center;
+        margin-bottom: 15px;
+        text-transform: uppercase;
+        font-weight: 900;
+    }
 
-/* Definitions */
-dt {
-    float: left;
-    clear: left;
-    width: 17%;
-    font-weight: bold;
-}
-dd {
-    margin-left: 17%;
-    margin-bottom:7px;
-}
-p {
-    margin-top:0;
-    margin-bottom:7px;
-}
+    h1:first-letter {
+        color: var(--theme-color-primary);
+    }
 
-/* Blockquotes */
-blockquote {
-    text-align: center;
-    border-top: 1px solid #E4E4E4;
-    border-bottom: 1px solid #E4E4E4;
-    border-left: none;
-    border-right: none;
-}
+    /* h1:hover { */
+    /*     background-color: #757575; */
+    /*     color: #FFFFFF; */
+    /*     text-shadow: 1px 1px 1px #333; */
+    /* } */
 
-/* Links */
-a {
-    text-decoration: none;
-    color: #397249;
-}
-a:hover, a:active {
-    background-color: #397249;
-    color: #FFFFFF;
-    text-decoration: none;
-    text-shadow: 1px 1px 1px #333;
-}
+    /* Titles of categories */
+    h2 {
+        /* This is called "sectioncolor" in the ConTeXt stylesheet. */
+        color: var(--heading-color);
+    }
 
-/* Horizontal separators */
-hr {
-    color: #A6A6A6;
-}
+    /* There is a bar just before each category */
+    h2:before {
+        content: "";
+        display: inline-block;
+        margin-right: 1%;
+        width: 64px;
+        height: 8px;
+        /* This is called "rulecolor" in the ConTeXt stylesheet. */
+        background-color: var(--theme-color-primary);
+    }
 
-table {
-    width: 100%;
-}
+    /* h2:hover {
+        background-color: #CC0000;
+        color: #FFFFFF;
+        text-shadow: 1px 1px 1px #333;   
+    } */
+
+    h3 {
+        color: var(--heading-color-contrast);
+    } 
+
+    h3:before {
+        content: "";
+        display: inline-block;
+        margin-right: 1%;
+        width: 32px;
+        height: 8px;
+        background-color: var(--theme-color-secondary);
+    }
+
+    h6 {
+        text-align: right;
+        margin-bottom: 1.4em;
+    }
+
+    /* Definitions */
+    dt {
+        float: left;
+        clear: left;
+        width: 17%;
+        font-weight: bold;
+    }
+
+    dd {
+        margin-left: 17%;
+        margin-bottom: 7px;
+    }
+
+    p {
+        margin-top: 0;
+        margin-bottom: 7px;
+    }
+
+    /* Blockquotes */
+    blockquote {
+        border: none;
+    }
+
+    h1+blockquote {
+        text-align: center;
+        border-top: 4px solid;
+        border-bottom: 4px solid;
+        border-color: var(--theme-color-primary);
+        margin: 0;
+        padding: 8px 40px;
+    }
+
+
+    h1+blockquote p {
+        margin: 0.5em 0;
+    }
+
+    h1+blockquote+p {
+        margin-top: 24px;
+    }
+
+    h3+blockquote {
+        margin-top: -16px;
+        font-style: italic;
+        font-weight: bold;
+    }
+
+    /* Links */
+    a {
+        text-decoration: none;
+        color: var(--theme-color-primary);
+        padding: 0 0.25em;
+    }
+
+    a:hover,
+    a:active {
+        background-color: var(--theme-color-primary);
+        color: var(--theme-color-light);
+        text-decoration: none;
+        text-shadow: 1px 1px 1px #333;
+    }
+
+    li strong {
+        color: var(--theme-color-primary);
+    }
+
+    /* Horizontal separators */
+    hr {
+        color: #E4E4E4;
+    }
+
+    table {
+        width: 100%;
+    }
 </style>
