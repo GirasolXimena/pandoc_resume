@@ -39,7 +39,7 @@
 - Worked with PMs and Designers to bring maintainable marketing pages to life.
 - Innovated custom email templating solutions, enhancing email campaigns for maximum engagement and consistency while launching new campaigns.
 
-### English Teacher | 웕계중학교(Wolgye Middle School) | Gwangju, South Korea | February 2015 - February 2017
+### Guest English Teacher | Wolgye Middle School | Gwangju, SK | 2015 - 2017
 
 - Led interactive English lessons for varied age groups, focusing on clear communication and cultural exchange, and empathy.
 - Tailored teaching approaches to foster a sense of originality, relatability, and playfulness.
