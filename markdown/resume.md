@@ -13,13 +13,13 @@
 ### Senior Full-Stack Software Engineer | Zinnia | May 2022 - Present
 > Typescript, React, CSS, HTML
 
-- **Launched** organization-wide component library with over 20 components supporting company-wide objectives. Four global teams rely on this library to ensure accessibility, reliability, and consistency across products, halving lead time for introducing new components
+- **Launched** organization-wide component library with over 20 components supporting company-wide objectives. Four global teams rely on this library to ensure accessibility, reliability, and consistency across products halving lead time for introducing new components.
 - **Partnered** with design to uphold design language, set visual direction, and ensure consistency across products.
 - Led **design and development collaboration** across 2 teams with 4 designers and 8 engineers. Implemented visual testing using and integrating third party tools like chromatic to greatly increase reliability and decrease lead time for manual QA by over 20%.
 - **Optimized web performance** through configuration of bundlers like webpack. Measuring Core Web Vitals and creating data-driven analytics dashboards to insure continuous improvement.
 - **Improved** technical architecture to simplify long term maintainance of pages.
 - **Automated** CI/CD workflows, enhancing development processes and security, decreasing build times from 5+ minutes down to 2 minutes.
-- Fostered **cross-team collaboration** by working with product engineering teams, PMs, and Designers to bring new applications to life. Launching 2 web portals and an AI interface to help other engineering teams build UIs faster. Using 
+- Fostered **cross-team collaboration** by working with product engineering teams, PMs, and Designers to bring new applications to life. Launching 2 web portals and an AI interface to help other engineering teams build UIs faster.
 - **Mentored a team** of 6 engineers, fostering a culture of trust and collaboration through open communication and empathy.
 - **Dedicated best practices**, ensuring blazing fast solutions aligned with the latest trends.
 - **Worked** with experimentation frameworks such as Unleash and Optimizely to optimize performance. Increasing page load times by 15 percent.

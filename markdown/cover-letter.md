@@ -10,9 +10,10 @@
 
 ## Cover Letter
 
-Hello! I am Ximena Girasol, a design systems and web engineer looking to join Discord to help imagining a place! As a user since 2016, I have longed to work at Discord to help build a space for genuine human connection and belonging for everyone. I am beyond hyped to join the team as a software engineer for the design foundations role and believe I am a perfect fit! I am a seasoned and passionate and technical engineer with a playful side ready to bring my expertise in building design systems, web performance, and cross-functional collaboration.
+Hello! I am Ximena Girasol, a design systems and web engineer ready to join Discord in imagining a place! As a user since 2016, I have longed to work at Discord to help build a space for genuine human connection and belonging for everyone. I am beyond hyped to join the team as a software engineer for the design foundations role and believe I am a perfect fit! I am a seasoned and passionate and technical engineer with a playful side ready to bring my expertise in building design systems, web performance, and cross-functional collaboration.
 
 In my current role I am the engineering owner for our design system, Bloom. I led the effort to streamline design-to-development workflows. Implementing a pipeline incorporating:
+
 - design tokens from Figma
 - documentation creating a single source of truth (SSOT) on Supernova
 - automated design token builds using CSS Custom Properties on GitHub
