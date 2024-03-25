@@ -3,7 +3,7 @@
 > **Design Systems & Web Engineer**
 > Technical Software Engineer with a passion for frontend development, design systems, and Godzilla movies. Dedicated to creating fresh, relatable, and reliable user experiences. Over 5 years of experience laying design foundations empowering teams to move independently in quickly. Ready to lead through clear communication and empathy.
 
-📧 **<Ximena.G.Dev@gmail.com>**
+📧 **<X.O.Girasol.dev@hotmail.com>**
 🌐 **[XimenaGirasol.dev](https://XimenaGirasol.dev)**
 
 🔗 [LinkedIn: Girasolximena](https://www.linkedin.com/in/XimenaGirasol) • [CodePen: abstract_code](https://codepen.io/abstract_code)
