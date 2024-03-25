@@ -1,10 +1,10 @@
 # Ximena Girasol
 
 > **Design Systems & Web Engineer**
-> Technical Software Engineer with a passion for frontend development, design systems, and Godzilla movies. Dedicated to creating fresh and blazing fast user experiences. Over 5 years of experience laying design foundations empowering teams to move independently in quickly. Ready to lead through clear communication and empathy.
+> Technical Software Engineer with a passion for frontend development, design systems, and Godzilla movies. Dedicated to creating fresh, relatable, and reliable user experiences. Over 5 years of experience laying design foundations empowering teams to move independently in quickly. Ready to lead through clear communication and empathy.
 
-📧 **<Ximena.G.Dev@gmail.com>**\
-🌐 **[XimenaGirasol.dev](https://ximenaGirasol.dev)**
+📧 **<Ximena.G.Dev@gmail.com>**
+🌐 **[XimenaGirasol.dev](https://XimenaGirasol.dev)**
 
 🔗 [LinkedIn: Girasolximena](https://www.linkedin.com/in/XimenaGirasol) • [CodePen: abstract_code](https://codepen.io/abstract_code)
 
@@ -13,22 +13,22 @@
 ### Senior Full-Stack Software Engineer | Zinnia | May 2022 - Present
 > Typescript, React, CSS, HTML
 
-- **Launched** organization-wide component library as a tool to support company-wide objectives. Engineers from all teams use this as a foundation to increase performance, reliability, and consistency of our pages.
-- **Partnered** with design to uphold design language, set visual direction, and ensure consistency across products. Implemented visual testing using and integrating third party tools like chromatic to greatly increase reliability and decrease overhead of manual QA.
+- **Launched** organization-wide component library with over 20 components supporting company-wide objectives. Four global teams rely on this library to ensure accessibility, reliability, and consistency across products.
+- **Partnered** with design to uphold design language, set visual direction, and ensure consistency across products. Lead design and development collaboration across 2 teams with 4 designers and 8 engineers. Implemented visual testing using and integrating third party tools like chromatic to greatly increase reliability and decrease lead time for manual QA by over 20%.
 - **Optimized** web performance through configuration of bundlers like webpack. Measuring Core Web Vitals and creating data-driven analytics dashboards to insure continuous improvement.
 - **Improved** technical architecture to simplify long term maintainance of pages.
-- **Automated** CI/CD workflows, enhancing development processes and security.
-- **Fostered** cross-team collaboration by working with product engineering teams, PMs, and Designers to bring new applications to life
-- **Mentored junior engineers**, fostering a culture of trust and collaboration.
-- **Dedicated to frontend best practices**, ensuring visually striking solutions aligned with the latest trends.
-- **Worked** with experimentation frameworks such as Unleash and Optimizely to optimize performance.
+- **Automated** CI/CD workflows, enhancing development processes and security, decreasing build times from > 5 minutes to 2 minutes.
+- **Fostered** cross-team collaboration by working with product engineering teams, PMs, and Designers to bring new applications to life. Launching 2 web portals and an AI interface to help other engineering teams.
+- **Mentored** a team of 6 engineers, fostering a culture of trust and collaboration through open communication and empathy.
+- **Dedicated to frontend best practices**, ensuring blazing fast solutions aligned with the latest trends.
+- **Worked** with experimentation frameworks such as Unleash and Optimizely to optimize performance. Increasing page load times by 15 percent.
 
 ### Creative Technologist | Wiley | November 2019 - May 2022
-> Typescript, Vue, React, CSS, HTML
+> Typescript, Vue, CSS, HTML
 
 - **Spearheaded** the implementation and growth of a unified design system, merging design and technical capabilities.
 - Played a key role in the **full cycle implementation** of the DiSC learning platform, focusing on user engagement through optimal UX.
-- **Integrated** third party tools such as lottie to increase engagement, playfulness, and relatability of products.
+- **Integrated** third party tools such as Lottie to increase engagement, playfulness, and relatability of products.
 - **Directly collaborated** with cross-functional UX and Product teams, maximizing platform engagement and leading feature priorities.
 - Developed web components for shared organizational libraries, emphasizing both core web vitals performance and accessibility.
 
