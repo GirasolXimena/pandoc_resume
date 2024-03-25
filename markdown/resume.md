@@ -13,8 +13,9 @@
 ### Senior Full-Stack Software Engineer | Zinnia | May 2022 - Present
 > Typescript, React, CSS, HTML
 
-- **Launched** organization-wide component library with over 20 components supporting company-wide objectives. Four global teams rely on this library to ensure accessibility, reliability, and consistency across products.
-- **Partnered** with design to uphold design language, set visual direction, and ensure consistency across products. Lead design and development collaboration across 2 teams with 4 designers and 8 engineers. Implemented visual testing using and integrating third party tools like chromatic to greatly increase reliability and decrease lead time for manual QA by over 20%.
+- **Launched** organization-wide component library with over 20 components supporting company-wide objectives. Four global teams rely on this library to ensure accessibility, reliability, and consistency across products. Halving lead time to introduce new components
+- **Partnered** with design to uphold design language, set visual direction, and ensure consistency across products.
+- **Led** design and development collaboration across 2 teams with 4 designers and 8 engineers. Implemented visual testing using and integrating third party tools like chromatic to greatly increase reliability and decrease lead time for manual QA by over 20%.
 - **Optimized** web performance through configuration of bundlers like webpack. Measuring Core Web Vitals and creating data-driven analytics dashboards to insure continuous improvement.
 - **Improved** technical architecture to simplify long term maintainance of pages.
 - **Automated** CI/CD workflows, enhancing development processes and security, decreasing build times from > 5 minutes to 2 minutes.
